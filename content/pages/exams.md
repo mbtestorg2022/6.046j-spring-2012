@@ -39,11 +39,48 @@ Students had four days to complete Quiz 2, which was a take-home exam. This quiz
 Final Exam
 ----------
 
-| PRACTICE EXAMS | SOLUTIONS |
-| --- | --- |
-| [Spring 2012 practice final (PDF)]({{< baseurl >}}/resources/mit6_046js12_final_prac) | [Solutions to Spring 2012 practice final (PDF)]({{< baseurl >}}/resources/mit6_046js12_final_prac_sol) |
-| [Spring 2011 practice final (PDF)]({{< baseurl >}}/resources/mit6_046js12_final_prac2011) | [Solutions to Spring 2011 practice final (PDF)]({{< baseurl >}}/resources/mit6_046js12_final_prac2011_sol) |
-| [Practice problems: advanced topics (PDF)]({{< baseurl >}}/resources/mit6_046js12_prac_adv) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PRACTICE EXAMS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Spring 2012 practice final (PDF)]({{< baseurl >}}/resources/mit6_046js12_final_prac)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Spring 2012 practice final (PDF)]({{< baseurl >}}/resources/mit6_046js12_final_prac_sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Spring 2011 practice final (PDF)]({{< baseurl >}}/resources/mit6_046js12_final_prac2011)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Spring 2011 practice final (PDF)]({{< baseurl >}}/resources/mit6_046js12_final_prac2011_sol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Practice problems: advanced topics (PDF)]({{< baseurl >}}/resources/mit6_046js12_prac_adv)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Students had three hours to complete the final exam, which emphasized material presented after Quiz 2. The additional instructions from Quiz 1 also applied to the final exam, except students could bring three handwritten crib sheets instead of one.
 
